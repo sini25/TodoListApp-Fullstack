@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\TodoApp.Core\\TodoApp.Core.csproj",
+      "projectUniqueName": "C:\\Users\\User\\mytodoapp-fullstack\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
       "projectName": "TodoApp.Core",
-      "projectPath": "C:\\Users\\User\\TodoApp.Core\\TodoApp.Core.csproj",
+      "projectPath": "C:\\Users\\User\\mytodoapp-fullstack\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\TodoApp.Core\\obj\\",
+      "outputPath": "C:\\Users\\User\\mytodoapp-fullstack\\backend\\TodoApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

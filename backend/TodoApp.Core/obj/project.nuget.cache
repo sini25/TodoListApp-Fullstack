@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QvzFkQIKqfA=",
+  "dgSpecHash": "35hJtjHRIc0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\TodoApp.Core\\TodoApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\User\\mytodoapp-fullstack\\backend\\TodoApp.Core\\TodoApp.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
