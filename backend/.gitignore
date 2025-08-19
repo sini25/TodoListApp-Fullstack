@@ -1,0 +1,29 @@
+# === .NET ===
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.log
+*.vs
+.vscode/
+*.db
+
+# Entity Framework Migrations
+Migrations/
+
+# Visual Studio Code settings
+.vscode/
+
+# === Node/React ===
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.DS_Store
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
